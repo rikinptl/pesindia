@@ -1,0 +1,304 @@
+{
+  "banners": [
+    {
+      "name": "banner2.jpg",
+      "path": "/images/banners/banner2.jpg",
+      "type": "image"
+    },
+    {
+      "name": "banner3.jpg",
+      "path": "/images/banners/banner3.jpg",
+      "type": "image"
+    },
+    {
+      "name": "banner11.jpg",
+      "path": "/images/banners/banner11.jpg",
+      "type": "image"
+    }
+  ],
+  "products": [
+    {
+      "name": "product2.jpg",
+      "path": "/images/products/product2.jpg",
+      "type": "image"
+    },
+    {
+      "name": "product3.jpg",
+      "path": "/images/products/product3.jpg",
+      "type": "image"
+    },
+    {
+      "name": "product1.jpg",
+      "path": "/images/products/product1.jpg",
+      "type": "image"
+    },
+    {
+      "name": "prod1.jpg",
+      "path": "/images/products/prod1.jpg",
+      "type": "image"
+    }
+  ],
+  "facilities": [
+    {
+      "name": "melting-and-moulding.jpg",
+      "path": "/images/facilities/melting-and-moulding.jpg",
+      "type": "image"
+    },
+    {
+      "name": "pattern-shop-scaled.jpeg",
+      "path": "/images/facilities/pattern-shop-scaled.jpeg",
+      "type": "image"
+    },
+    {
+      "name": "felting-shot-blasting.jpg",
+      "path": "/images/facilities/felting-shot-blasting.jpg",
+      "type": "image"
+    },
+    {
+      "name": "pattern-shop.jpeg",
+      "path": "/images/facilities/pattern-shop.jpeg",
+      "type": "image"
+    },
+    {
+      "name": "pattern-shop.jpg",
+      "path": "/images/facilities/pattern-shop.jpg",
+      "type": "image"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "CEMENT-PLANT.jpg",
+      "path": "/images/testimonials/CEMENT-PLANT.jpg",
+      "type": "image"
+    },
+    {
+      "name": "aditya-birla-cement.jpg",
+      "path": "/images/testimonials/aditya-birla-cement.jpg",
+      "type": "image"
+    },
+    {
+      "name": "metso.jpg",
+      "path": "/images/testimonials/metso.jpg",
+      "type": "image"
+    },
+    {
+      "name": "holcim-limited.jpg",
+      "path": "/images/testimonials/holcim-limited.jpg",
+      "type": "image"
+    },
+    {
+      "name": "Cement-Plant-Spares.jpg",
+      "path": "/images/testimonials/Cement-Plant-Spares.jpg",
+      "type": "image"
+    },
+    {
+      "name": "testimonial1.jpg",
+      "path": "/images/testimonials/testimonial1.jpg",
+      "type": "image"
+    },
+    {
+      "name": "jk-white-cement.jpg",
+      "path": "/images/testimonials/jk-white-cement.jpg",
+      "type": "image"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "PED-CERTIFICATE.jpg",
+      "path": "/images/certifications/PED-CERTIFICATE.jpg",
+      "type": "image"
+    },
+    {
+      "name": "ISO-CERTIFICATE-724x1024.jpg",
+      "path": "/images/certifications/ISO-CERTIFICATE-724x1024.jpg",
+      "type": "image"
+    },
+    {
+      "name": "ISO-CERTIFICATE.jpg",
+      "path": "/images/certifications/ISO-CERTIFICATE.jpg",
+      "type": "image"
+    },
+    {
+      "name": "NORSOK-M650-Certificate.jpg",
+      "path": "/images/certifications/NORSOK-M650-Certificate.jpg",
+      "type": "image"
+    },
+    {
+      "name": "certificate2.png",
+      "path": "/images/certifications/certificate2.png",
+      "type": "image"
+    },
+    {
+      "name": "certificate3.png",
+      "path": "/images/certifications/certificate3.png",
+      "type": "image"
+    },
+    {
+      "name": "certificate1.png",
+      "path": "/images/certifications/certificate1.png",
+      "type": "image"
+    },
+    {
+      "name": "Crisil.jpg",
+      "path": "/images/certifications/Crisil.jpg",
+      "type": "image"
+    },
+    {
+      "name": "certificate4.png",
+      "path": "/images/certifications/certificate4.png",
+      "type": "image"
+    },
+    {
+      "name": "ISO-CERTIFICATE-scaled.jpg",
+      "path": "/images/certifications/ISO-CERTIFICATE-scaled.jpg",
+      "type": "image"
+    }
+  ],
+  "all": [
+    {
+      "name": "product2.jpg",
+      "path": "/images/products/product2.jpg",
+      "type": "image"
+    },
+    {
+      "name": "product3.jpg",
+      "path": "/images/products/product3.jpg",
+      "type": "image"
+    },
+    {
+      "name": "product1.jpg",
+      "path": "/images/products/product1.jpg",
+      "type": "image"
+    },
+    {
+      "name": "prod1.jpg",
+      "path": "/images/products/prod1.jpg",
+      "type": "image"
+    },
+    {
+      "name": "CEMENT-PLANT.jpg",
+      "path": "/images/testimonials/CEMENT-PLANT.jpg",
+      "type": "image"
+    },
+    {
+      "name": "aditya-birla-cement.jpg",
+      "path": "/images/testimonials/aditya-birla-cement.jpg",
+      "type": "image"
+    },
+    {
+      "name": "metso.jpg",
+      "path": "/images/testimonials/metso.jpg",
+      "type": "image"
+    },
+    {
+      "name": "holcim-limited.jpg",
+      "path": "/images/testimonials/holcim-limited.jpg",
+      "type": "image"
+    },
+    {
+      "name": "Cement-Plant-Spares.jpg",
+      "path": "/images/testimonials/Cement-Plant-Spares.jpg",
+      "type": "image"
+    },
+    {
+      "name": "testimonial1.jpg",
+      "path": "/images/testimonials/testimonial1.jpg",
+      "type": "image"
+    },
+    {
+      "name": "jk-white-cement.jpg",
+      "path": "/images/testimonials/jk-white-cement.jpg",
+      "type": "image"
+    },
+    {
+      "name": "banner2.jpg",
+      "path": "/images/banners/banner2.jpg",
+      "type": "image"
+    },
+    {
+      "name": "banner3.jpg",
+      "path": "/images/banners/banner3.jpg",
+      "type": "image"
+    },
+    {
+      "name": "banner11.jpg",
+      "path": "/images/banners/banner11.jpg",
+      "type": "image"
+    },
+    {
+      "name": "PED-CERTIFICATE.jpg",
+      "path": "/images/certifications/PED-CERTIFICATE.jpg",
+      "type": "image"
+    },
+    {
+      "name": "ISO-CERTIFICATE-724x1024.jpg",
+      "path": "/images/certifications/ISO-CERTIFICATE-724x1024.jpg",
+      "type": "image"
+    },
+    {
+      "name": "ISO-CERTIFICATE.jpg",
+      "path": "/images/certifications/ISO-CERTIFICATE.jpg",
+      "type": "image"
+    },
+    {
+      "name": "NORSOK-M650-Certificate.jpg",
+      "path": "/images/certifications/NORSOK-M650-Certificate.jpg",
+      "type": "image"
+    },
+    {
+      "name": "certificate2.png",
+      "path": "/images/certifications/certificate2.png",
+      "type": "image"
+    },
+    {
+      "name": "certificate3.png",
+      "path": "/images/certifications/certificate3.png",
+      "type": "image"
+    },
+    {
+      "name": "certificate1.png",
+      "path": "/images/certifications/certificate1.png",
+      "type": "image"
+    },
+    {
+      "name": "Crisil.jpg",
+      "path": "/images/certifications/Crisil.jpg",
+      "type": "image"
+    },
+    {
+      "name": "certificate4.png",
+      "path": "/images/certifications/certificate4.png",
+      "type": "image"
+    },
+    {
+      "name": "ISO-CERTIFICATE-scaled.jpg",
+      "path": "/images/certifications/ISO-CERTIFICATE-scaled.jpg",
+      "type": "image"
+    },
+    {
+      "name": "melting-and-moulding.jpg",
+      "path": "/images/facilities/melting-and-moulding.jpg",
+      "type": "image"
+    },
+    {
+      "name": "pattern-shop-scaled.jpeg",
+      "path": "/images/facilities/pattern-shop-scaled.jpeg",
+      "type": "image"
+    },
+    {
+      "name": "felting-shot-blasting.jpg",
+      "path": "/images/facilities/felting-shot-blasting.jpg",
+      "type": "image"
+    },
+    {
+      "name": "pattern-shop.jpeg",
+      "path": "/images/facilities/pattern-shop.jpeg",
+      "type": "image"
+    },
+    {
+      "name": "pattern-shop.jpg",
+      "path": "/images/facilities/pattern-shop.jpg",
+      "type": "image"
+    }
+  ]
+}
