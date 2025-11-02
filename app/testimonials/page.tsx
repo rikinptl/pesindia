@@ -86,7 +86,7 @@ export default function Testimonials() {
                   <div className="flex-grow">
                     <h2 className="text-2xl font-bold text-gray-900 mb-4">{testimonial.company}</h2>
                     <p className="text-gray-700 leading-relaxed italic">
-                      "{testimonial.content}"
+                      &ldquo;{testimonial.content}&rdquo;
                     </p>
                   </div>
                 </div>
